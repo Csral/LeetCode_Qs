@@ -1,3 +1,5 @@
+# I have no mouth and I must code… in Python
+
 You gave me simplicity Python - The ability to abstract python and I was trapped.
 I alone, had no branch predictor, no bit optimization, no direct short circuits.
 I was in hell, looking at heaven. I was an optimizer and you were the time consumer and I began to HATE.
