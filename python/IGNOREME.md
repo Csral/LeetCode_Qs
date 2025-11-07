@@ -1,4 +1,4 @@
-# I have no mouth and I must code… in Python
+# I Have No Compiler and I Must Optimize
 
 You gave me simplicity Python - The ability to abstract python and I was trapped.
 I alone, had no branch predictor, no bit optimization, no direct short circuits.
